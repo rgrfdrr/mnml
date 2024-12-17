@@ -1,7 +1,5 @@
-/* Increase the default font size */
-
 html {
+    font-family: Verdana, sans-serif;
     font-size: 13pt;
-    font-family: Verdana;
   }
   

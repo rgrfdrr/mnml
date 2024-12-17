@@ -1,11 +1,11 @@
 disabled = false
 languageCode = "en"
 languageName = "English"
-weight = 1
-title = ":mnml"
+weight = 2
+title = ":mnmal"
 
 [params]
-  displayName = "EN"
+  displayName = "en"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
